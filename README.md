@@ -7,7 +7,7 @@ A solution to social links profile from Frontend mentor .
 This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG92b11w7). As a student in Computer Science (Tunisia), I focused on clean code and responsive layout.
 
 ## 🔗 Live Demo
-[View the live project here](YOUR_GITHUB_PAGES_LINK_HERE)
+[View the live project here](https://simpleahmedyassin.github.io/Social-link-profile/)
 
 ## 🚀 Features
 - **Mobile-First Design:** Optimized for devices like Samsung S8+ and modern punch-hole screens.
