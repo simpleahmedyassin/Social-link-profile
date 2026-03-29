@@ -4,5 +4,5 @@ A solution to social links profile from Frontend mentor .
 <img src="screenshots/scrrenshot2.png" style = "width:20%">
 <style>
   img {
-    display : block ;
+    display : block ;}
 </style>
