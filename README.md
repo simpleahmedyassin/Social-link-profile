@@ -2,3 +2,7 @@
 A solution to social links profile from Frontend mentor .
 <img src="screenshots/screenshot1.png" style = "width:80%">
 <img src="screenshots/scrrenshot2.png" style = "width:20%">
+<style>
+  img {
+    display : inline-block ;
+</style>
